@@ -7,7 +7,7 @@ int main(){
     else if (marks>=80)
     printf("B");
     else if(marks>=70)
-    printf("C")
+    printf("C");
     else if(marks>=60)
     printf("D");
     else
