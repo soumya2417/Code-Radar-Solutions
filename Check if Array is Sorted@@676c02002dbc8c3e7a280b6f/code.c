@@ -17,7 +17,10 @@ int main(){
         }
     }
     if (sorted){
-        printf("sorted\n");
-        
+        printf("Sorted\n");
+    }else{
+        printf("Not Sorted\n");
     }
+
+    return 0;
 }
