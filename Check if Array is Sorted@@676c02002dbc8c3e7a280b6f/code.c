@@ -13,11 +13,10 @@ int main(){
             break;
         }
     }
-    if (sorted){
+    if (sorted)
         printf("Sorted\n");
-    }else{
+    else
         printf("Not Sorted\n");
-    }
-
-    return 0;
+    
+return 0;
 }
